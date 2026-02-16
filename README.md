@@ -1,4 +1,4 @@
-# check-_internet_speed
+# check_internet_speed
 A simple Python-based Internet Speed Test tool that checks your Download Speed, Upload Speed, and Ping directly from the terminal.
 
 This tool uses the speedtest library to automatically find the best server and measure your internet performance in seconds.
